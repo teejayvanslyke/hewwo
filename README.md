@@ -12,6 +12,6 @@
 
 ## View the site
 
-    http://teejayvanslyke.github.com/hewwo
+http://teejayvanslyke.github.com/hewwo
 
 
